@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp General", "CSharp General\CSharp General.csproj", "{59E6508A-AF5D-4E37-95D2-589DE6E2A6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDC", "..\Maximo comun divisor\GDC\GDC\GDC.csproj", "{2CF698A2-6CC8-48C9-89C1-F6296D90DF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E6508A-AF5D-4E37-95D2-589DE6E2A6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E6508A-AF5D-4E37-95D2-589DE6E2A6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E6508A-AF5D-4E37-95D2-589DE6E2A6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E6508A-AF5D-4E37-95D2-589DE6E2A6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF698A2-6CC8-48C9-89C1-F6296D90DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF698A2-6CC8-48C9-89C1-F6296D90DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF698A2-6CC8-48C9-89C1-F6296D90DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF698A2-6CC8-48C9-89C1-F6296D90DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4500CD-5736-4E18-B524-CDCA627A1A63}
+	EndGlobalSection
+EndGlobal
